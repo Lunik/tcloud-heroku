@@ -1,0 +1,22 @@
+{
+  "name": "tcloud-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bash ./install.sh",
+    "start": "bash ./run.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lunik/tcloud-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lunik/tcloud-heroku/issues"
+  },
+  "homepage": "https://github.com/Lunik/tcloud-heroku#readme",
+  "dependencies": {}
+}
