@@ -7,7 +7,7 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 ## ===== Information =====
-This repository allow to deploy [Tcloud app](https://github.com/Lunik/tcloud) on Heroku platforme. To install it on other platforme please see [Tcloud repository](https://github.com/Lunik/tcloud)
+This repository allow to deploy [Tcloud app](https://github.com/Lunik/tcloud) on Heroku platform. To install it on other platforms please see [Tcloud repository](https://github.com/Lunik/tcloud)
 
 ## ===== View =====
 
