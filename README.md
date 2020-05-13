@@ -50,16 +50,21 @@ Fill the torrent engine with "1337x"
 
 2 . Do not use kaffeine to keep your app running. Always use uptimerobot. (uptimerobot has android app also)
 
-3 . Do not deploy any other apps in that heroku account. Just one app to be deployed( trust me,I am telling from my experience).
+3. Do not share your app with others. Keep it to your self only.
 
-4 . Do not share your app with others. Keep it to your self only.
+4. Even after 100% is showing, the torrent will be still downloading. Do not panic. It will give files to download. Just wait for some minutes.
 
-5 . For registration in heroku, Do not (I said “Do not”) use temp mails. Use good, trusted and popular emails. Otherwise you will regret later.
-
-6. Even after 100% is showing, the torrent will be still downloading. Do not panic. It will give files to download. Just wait for some minutes.
-
-7. Delete files from server (from file manager which is available in that webpage itself) ASAP. This is my highest priority request and suggestion.
+5. Delete files from server (from file manager which is available in that webpage itself) immediately after you succeed in downloading file
 
 ## Upload to GDrive
 
-Use https://bhadooclouduploader.herokuapp.com
+1. Use https://bhadooclouduploader.herokuapp.com
+
+2. Login with your Google account
+
+3. Copy URL of the downloaded files (in Tcloud)
+
+4. Paste to upload link section in the uploader
+
+
+
