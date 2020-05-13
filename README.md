@@ -19,6 +19,8 @@ This repository allow to deploy [Tcloud app](https://github.com/Lunik/tcloud) on
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sagirisayang/tcloud-heroku)
 
+Fill the torrent engine with "1337x"
+
 ## Limitations
 
 1 . Heroku free accounts have 550 hours runtime. So if you use continuously then you may see downtime in ending days of a month. So use your app carefully. (you can create multiple accounts and deploy 2 apps in different accounts to deal with this limitation).
