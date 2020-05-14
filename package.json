@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lunik/tcloud-heroku.git"
+    "url": "git+https://github.com/sagirisayang/tcloud-heroku.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lunik/tcloud-heroku/issues"
+    "url": "https://github.com/sagirisayang/tcloud-heroku/issues"
   },
-  "homepage": "https://github.com/Lunik/tcloud-heroku#readme",
+  "homepage": "https://github.com/sagirisayang/tcloud-heroku#readme",
   "dependencies": {}
 }
